@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/AnimStarterPack
+Content/CartoonWaterShader
+Content/FPS_Weapon_Bundle
+Content/StarterContent
+Content/MilitaryWeapSilver
+Content/ThirdPerson
+Content/ThirdPersonCPP
+Content/Mannequin
+Content/Geometry
