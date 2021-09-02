@@ -6,7 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0838a02-260a-4a98-8db5-f506fd5379a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CharacterAnimations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CharacterAnimations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/ASP_BasicLocoAnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/ASP_BasicLocoAnimBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/BP_BasicLocoCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/BP_BasicLocoCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/BP_BasicLocoPlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BasicLocomotion/Blueprints/BP_BasicLocoPlayer.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BasicLocomotion/Maps/BasicLocoDemo.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BasicLocomotion/Maps/BasicLocoDemo.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,6 +263,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630139835305</updated>
       <workItem from="1630139900103" duration="2756000" />
+      <workItem from="1630582824831" duration="437000" />
     </task>
     <servers />
   </component>
@@ -274,6 +280,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
